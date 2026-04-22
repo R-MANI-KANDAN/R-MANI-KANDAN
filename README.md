@@ -134,23 +134,7 @@ Organized flagship events: **TECHNEXUS** & **ROBOCRAZE**
 
 </div>
 
----
 
-<div align="center">
-
-### 🐍 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/R-MANI-KANDAN/R-MANI-KANDAN/output/github-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-```
-⚡ "I don't just write code — I write firmware that runs on silicon." ⚡
-```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=R-MANI-KANDAN&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
