@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-### `Embedded Systems Engineer & IoT` · `ECE Undergrad @ LICET` · `Chennai, India`
+### `Embedded Systems & IoT Enthusiast` · `ECE Undergrad @ LICET` · `Chennai, India`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mani-kandan-216a12278)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R-MANI-KANDAN)
